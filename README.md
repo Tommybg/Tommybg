@@ -40,5 +40,8 @@ I am a curious ML Engineer and Content Creator on a mission to develop solutions
   <img alt="streamlit" width="40px" style="padding-right:35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 </div>
 
-<h2 style="color: #abde50;"><a href="tommybaron.up.railway.app">PORTFOLIO</a></h2>
+<h2 style="color: #abde50;">
+  <a href="https://tommybaron.up.railway.app" target="_blank" rel="noopener noreferrer">PORTFOLIO</a>
+</h2>
+
 
